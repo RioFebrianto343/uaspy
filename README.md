@@ -10,11 +10,14 @@ ke local repository.
 
 2.Lakukan konfigurasi virtual environment pada project anda.
 
-![Uas3](https://user-images.githubusercontent.com/46512504/55853356-fbd27900-5b8a-11e9-9c4c-b41c47c273a6.jpg)
-
-
+![Uas5](https://user-images.githubusercontent.com/46512504/55872100-5a611c80-5bb6-11e9-9a32-761c3418cbc6.jpg)
 
 
 3. Install requirements yang dibutuhkan (pip install atau dari PyCharm).
 
-![Uas3](https://user-images.githubusercontent.com/46512504/55853905-3b9a6000-5b8d-11e9-8189-abcdf360693d.jpg)
+![Uas4](https://user-images.githubusercontent.com/46512504/55872110-5e8d3a00-5bb6-11e9-9cec-5a95fcdb2aaf.jpg)
+
+4. Buat class utama dengan menurunkan dari class BaseApp dengan nama App (seusikan kode
+program pada main.py)
+
+![Uas6](https://user-images.githubusercontent.com/46512504/55872372-0571d600-5bb7-11e9-8527-7a40192ec9d8.jpg)
