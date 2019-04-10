@@ -21,3 +21,8 @@ ke local repository.
 program pada main.py)
 
 ![Uas6](https://user-images.githubusercontent.com/46512504/55872372-0571d600-5bb7-11e9-8527-7a40192ec9d8.jpg)
+
+5. Hasil Run Main.py
+
+![Uas7](https://user-images.githubusercontent.com/46512504/55872654-b4161680-5bb7-11e9-9959-9116ff6c6d32.jpg)
+
