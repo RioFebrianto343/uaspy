@@ -8,7 +8,9 @@ ke local repository.
 ![UAS1](https://user-images.githubusercontent.com/46512504/55851369-7f3b9c80-5b82-11e9-8f6e-8cf18a7aa22c.jpg)
 
 
+2.Lakukan konfigurasi virtual environment pada project anda.
 
+![Uas3](https://user-images.githubusercontent.com/46512504/55853356-fbd27900-5b8a-11e9-9c4c-b41c47c273a6.jpg)
 
 
 
