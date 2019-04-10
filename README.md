@@ -14,4 +14,5 @@ ke local repository.
 
 
 3. Install requirements yang dibutuhkan (pip install atau dari PyCharm).
+![UAS2](https://user-images.githubusercontent.com/46512504/55853191-2f60d380-5b8a-11e9-8c45-b2ed5452b767.jpg)
 
